@@ -1,0 +1,10 @@
+1|Veg Thali|Veg|90|10|15
+2|Paneer Masala|Veg|120|8|20
+3|Chicken Biryani|Non-Veg|150|11|25
+4|Mutton Curry|Non-Veg|200|5|30
+5|Gulab Jamun|Desserts|40|15|5
+6|Ice Cream|Desserts|35|20|2
+7|Masala Dosa|Snacks|50|10|12
+8|Samosa|Snacks|20|25|8
+9|Tea|Drinks|10|30|3
+10|Cold Drink|Drinks|40|14|1
